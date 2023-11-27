@@ -1,0 +1,5 @@
+.env
+arxiv_papers/
+db/
+src/utils/__pycache__/
+logs/
